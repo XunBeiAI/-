@@ -1,0 +1,5 @@
+interface:
+  display_name: "Visual Layout Editor"
+  short_description: "Visually edit static pages on desktop and mobile."
+  default_prompt: "Use $visual-layout-editor to add a local visual editor to this static website."
+
